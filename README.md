@@ -1,12 +1,12 @@
-# RGB
+#RGB background
 
-اغتذر على سوء حوده الصوت بسبب تسجيل صوتي من الجوال وثم دمجت الصوت مع المقطع
+<ul><li>php</li></ul>
 
-يمكنك تجربه الموقع باستخدام بالخطوات التاليه
+<img src="img/php1.png" alt="testPhp">
+<img src="img/php.png" alt="testPhp">
 
-1- install xampp 
-2- start xampp
-3- move web file to c/program/lampp/htdocs/
-go to chrome and open link 127.0.0.1
+<ul><li>C#</li></ul>
+<img src="img/c.png" alt="testC">
 
-https://www.youtube.com/watch?v=4K3rs8wUcXI&ab_channel=keenv
+
+     
