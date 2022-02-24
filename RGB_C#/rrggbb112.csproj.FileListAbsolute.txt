@@ -1,0 +1,10 @@
+C:\Users\Vov_4\source\repos\rrggbb112\rrggbb112\bin\Debug\rrggbb112.exe.config
+C:\Users\Vov_4\source\repos\rrggbb112\rrggbb112\bin\Debug\rrggbb112.exe
+C:\Users\Vov_4\source\repos\rrggbb112\rrggbb112\bin\Debug\rrggbb112.pdb
+C:\Users\Vov_4\source\repos\rrggbb112\rrggbb112\obj\Debug\rrggbb112.csprojAssemblyReference.cache
+C:\Users\Vov_4\source\repos\rrggbb112\rrggbb112\obj\Debug\rrggbb112.Form1.resources
+C:\Users\Vov_4\source\repos\rrggbb112\rrggbb112\obj\Debug\rrggbb112.Properties.Resources.resources
+C:\Users\Vov_4\source\repos\rrggbb112\rrggbb112\obj\Debug\rrggbb112.csproj.GenerateResource.cache
+C:\Users\Vov_4\source\repos\rrggbb112\rrggbb112\obj\Debug\rrggbb112.csproj.CoreCompileInputs.cache
+C:\Users\Vov_4\source\repos\rrggbb112\rrggbb112\obj\Debug\rrggbb112.exe
+C:\Users\Vov_4\source\repos\rrggbb112\rrggbb112\obj\Debug\rrggbb112.pdb
